@@ -9,4 +9,5 @@ fn add(x:i8,y:i8)
 
 fn main() {
    add(1,2);
+   println!("thanks");
 }
